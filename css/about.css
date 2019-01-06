@@ -84,7 +84,7 @@ footer {
 
 @media all and (min-width: 548px) and (max-width: 800px) {
    #nav_container ul li a {
-      padding: 7px 16px;
+      padding: 7px 3px;
    }
 
    img {
