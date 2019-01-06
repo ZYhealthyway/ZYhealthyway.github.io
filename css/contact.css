@@ -108,10 +108,10 @@ footer {
    }
 
    .all {
-      margin-left: -220px;
+      margin-left: auto;
    }
 
    .add {
-      margin-left: 250px;
+      margin-left: auto;
    }
 }
