@@ -100,13 +100,13 @@ footer {
       padding: 7px 40px;
    }
 }
-@media all and (min-width: 548px) and (max-width: 800px) {
+@media all and (min-width: 300px) and (max-width: 800px) {
    #nav_container ul li a {
-      padding: 7px 16px;
+      padding: 7px 3px;
    }
 
    header {
-      margin-top: 200px;
+      margin-top: 100px;
    }
 
    h1 {
