@@ -105,16 +105,21 @@ footer {
       padding: 7px 3px;
    }
 
+   #nav_container {
+      margin-left: -10px;
+      font-size: 20px;
+   }
+
    header {
       margin-top: 100px;
    }
 
    h1 {
-      font-size: 60px;
+      font-size: 50px;
    }
 
    h2 {
       margin-top: -30px;
-      font-size: 30px;
+      font-size: 25px;
    }
 }

@@ -92,7 +92,24 @@ footer {
       padding: 7px 3px;
    }
 
+   #nav_container {
+      margin-left: -10px;
+      font-size: 20px;
+   }
+
+   header {
+      font-size: 15px;
+   }
+
+   table {
+      margin-left: 50px;
+   }
+
    img {
       width: 70%;
+   }
+
+   footer {
+      margin-top: 200px;
    }
 }

@@ -87,7 +87,23 @@ footer {
       padding: 7px 3px;
    }
 
+   #nav_container {
+      margin-left: -10px;
+      font-size: 20px;
+   }
+
+   header {
+      font-size: 15px;
+   }
+
    img {
-      margin-left: 20px;
+      margin-left: 70px;
+   }
+
+   footer {
+      margin-top: 380px;
+      color: #000;
+      background-color: #c0c0c0;
+      text-align: center;
    }
 }

@@ -107,11 +107,29 @@ footer {
       padding: 7px 3px;
    }
 
+   #nav_container {
+      margin-left: -10px;
+      font-size: 20px;
+   }
+
+   header {
+      font-size: 15px;
+   }
+
    .all {
-      margin-left: auto;
+      margin-left: -200px;
+   }
+
+   .phone {
+      margin-top: 30px;
    }
 
    .add {
-      margin-left: auto;
+      margin-top: -3px;
+      margin-left: 250px;
+   }
+
+   footer {
+      margin-top: 350px;
    }
 }
