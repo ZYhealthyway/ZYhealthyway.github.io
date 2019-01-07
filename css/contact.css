@@ -117,17 +117,29 @@ footer {
    }
 
    .all {
-      margin-left: -200px;
+      margin-left: 10px;
+      width: 100%;
    }
 
    .phone {
-      margin-top: 30px;
-      margin-left: -100px;
+      margin-left: 80px;
+      margin-top: 60px;
+      padding-top: 5px;
+      width: 270px;
+      height: 50px;
+      background-color: #7e1524;
+      color: #fbeeda;
+      text-align: center;
    }
 
    .add {
-      margin-top: -3px;
-      margin-left: 250px;
+      margin-left: 80px;
+      margin-top: 60px;
+      width: 270px;
+      height: 50px;
+      background-color: #7e1524;
+      color: #fbeeda;
+      text-align: center;
    }
 
    footer {
